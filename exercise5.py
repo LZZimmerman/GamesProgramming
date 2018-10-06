@@ -6,15 +6,25 @@ word = input("Pick a random word: ")
 #print (word[-3:])
 #print (word + "ly")
 
-if (len(word) >=3 and word[-3:] != "ing"):
-    print (word + "ing")
-elif (len(word) >=3 and word[-3:] == "ing"):
-    print (word + "ly")
-else:
-    print (word)
+#old code
+#if (len(word) >=3 and word[-3:] != "ing"):
+#    print (word + "ing")
+#elif (len(word) >=3 and word[-3:] == "ing"):
+#    print (word + "ly")
+#else:
+#    print (word)
 
 #or
 #elif (len(word) <3):
 #    print (word)
 #else:
 #    print (word + "ly")
+
+#revised
+if len(word) >=3 and word[-3:] != "ing":
+    print (word + "ing")
+elif len(word) >=3:
+    print (word + "ly")
+else:
+    print (word)
+    
