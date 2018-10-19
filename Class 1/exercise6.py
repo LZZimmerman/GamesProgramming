@@ -20,7 +20,7 @@ else:
         print ("You head towards a tower. It looms over 30 meters tall and has a small wooden door at the bottom. To your left, a path leads towards a forest.")
     else:
         print ("incorrect choice, please choose either A, B or C")
-print ("Suddenly, bells begin to chime from the square that you had left.")
+print ("Suddenly, bells begin to chime from the square that you arrived from")
 print ("A) Enter the nearby building")
 print ("B) Go to the forest")
 print ("C) Return to the square")
