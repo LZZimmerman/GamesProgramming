@@ -30,9 +30,10 @@ while not gameOver:
         #     #print(g)
         #     inventory[2] = str(g)+ " gold"
         else:
+            a=30
             print("You have found 30 gold coins")
-            g += 30
+            g += a
             #print(g)
-            inventory[inventory.index(str(g-30) + " gold")] = str(g)+ " gold"
+            inventory[inventory.index(str(g-a) + " gold")] = str(g)+ " gold"
             #str(g) + " gold" = 80 gold
             #str(g-30) = 50 gold
