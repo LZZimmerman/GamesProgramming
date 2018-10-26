@@ -4,6 +4,6 @@
 # 12: 144, 13: 169, 14: 196, 15: 225} )
 my_dict={}
 for i in range(1,16):
-    my_dict[i]=[i**2]
+    my_dict[i]=i**2
 
-print(my_dict.items())
+print(*my_dict.items())
