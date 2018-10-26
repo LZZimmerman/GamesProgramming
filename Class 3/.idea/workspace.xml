@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2836f3e-8b07-4294-83fc-872c45c6605e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c2836f3e-8b07-4294-83fc-872c45c6605e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,24 +21,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Classwork 1" value="2" />
-          <entry key="py" value="8" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="9" />
+          <entry key="Python" value="10" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Classwork 1" value="1519" />
-          <entry key="py" value="1398" />
+          <entry key="py" value="1541" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2917" />
+          <entry key="Python" value="3060" />
         </counts>
       </usages-collector>
     </session>
@@ -65,11 +63,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/classwork3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise 1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -89,12 +96,13 @@
         <option value="$PROJECT_DIR$/Classwork 1.py" />
         <option value="$PROJECT_DIR$/classwork 2.py" />
         <option value="$PROJECT_DIR$/classwork3.py" />
+        <option value="$PROJECT_DIR$/Exercise 1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="467" />
-    <option name="y" value="87" />
+    <option name="x" value="271" />
+    <option name="y" value="44" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -140,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.classwork3">
+  <component name="RunManager" selected="Python.Exercise 1">
     <configuration name="Classwork 1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HWreview" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercise 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,7 +203,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HWreview.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,19 +255,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.HWreview" />
       <item itemvalue="Python.Classwork 1" />
       <item itemvalue="Python.Classwork 1 (1)" />
       <item itemvalue="Python.classwork 2" />
       <item itemvalue="Python.classwork3" />
+      <item itemvalue="Python.Exercise 1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise 1" />
         <item itemvalue="Python.classwork3" />
         <item itemvalue="Python.classwork 2" />
         <item itemvalue="Python.Classwork 1 (1)" />
         <item itemvalue="Python.Classwork 1" />
-        <item itemvalue="Python.HWreview" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +285,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="467" y="87" width="1400" height="1000" extended-state="0" />
+    <frame x="271" y="44" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24302496" />
@@ -341,6 +349,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
