@@ -36,9 +36,9 @@ magic = 100
 gameOver = False
 inventory = {"Potions": {"Health": 2, "Mana": 1, "Liquid Courage": 1},
              "Weapons": {"Axe": "no", "Sword": "no", "Longbow": "no"},
-             "Armour": {"Helmet": "no", "Breastplate": "Leather", "Boots": "Leather"}
+             "Armour": {"Helmet": "no", "Breastplate": "Leather", "Boots": "Leather"} #armour system not implemented, would add as goblin loot maybe
              }
-print(inventory)
+#print(inventory)
 
 while not gameOver:
     print("You come across a Goblin!")
