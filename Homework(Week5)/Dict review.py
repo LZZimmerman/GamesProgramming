@@ -46,7 +46,7 @@ while not gameOver:
         print("You're feeling pretty good about yourself!")
         fightInput = input("Do you want to fight?\n")
     elif courage >= 50:
-        print("You're not sure if you can beat the goblin")
+        print("You're not sure if you can beat the goblin.")
         fightInput = input("Do you want to fight?\n")
     else:
         print("You don't have enough faith in yourself to fight, consider drinking some liquid courage first!")
