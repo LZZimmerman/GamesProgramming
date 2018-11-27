@@ -21,22 +21,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1482" />
+          <entry key="py" value="2367" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1482" />
+          <entry key="Python" value="2367" />
         </counts>
       </usages-collector>
     </session>
@@ -83,11 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework(Week6)/stringExercise2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework(Week6)/extraExercise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -112,6 +121,7 @@
         <option value="$PROJECT_DIR$/Homework(Week6)/ListExercise2.py" />
         <option value="$PROJECT_DIR$/Homework(Week6)/stringExercise1.py" />
         <option value="$PROJECT_DIR$/Homework(Week6)/stringExercise2.py" />
+        <option value="$PROJECT_DIR$/Homework(Week6)/extraExercise.py" />
       </list>
     </option>
   </component>
@@ -178,28 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.stringExercise2">
-    <configuration name="Classwork2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="GamesProgramming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 4/Classwork2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.extraExercise">
     <configuration name="ListExercise2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GamesProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,6 +223,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework(Week6)/ListExercises.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extraExercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GamesProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework(Week6)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework(Week6)/extraExercise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,19 +295,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Classwork2" />
       <item itemvalue="Python.ListExercises" />
       <item itemvalue="Python.ListExercise2" />
       <item itemvalue="Python.stringExercise1" />
       <item itemvalue="Python.stringExercise2" />
+      <item itemvalue="Python.extraExercise" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.extraExercise" />
         <item itemvalue="Python.stringExercise2" />
         <item itemvalue="Python.stringExercise1" />
         <item itemvalue="Python.ListExercise2" />
         <item itemvalue="Python.ListExercises" />
-        <item itemvalue="Python.Classwork2" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +326,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.178881" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -423,6 +432,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework(Week6)/extraExercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
