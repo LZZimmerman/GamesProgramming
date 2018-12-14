@@ -76,4 +76,4 @@ while True:         ##answer phone loop
     else:
         print("Incorrect response, please try again")
 
-print("So begins the tale of Dr DoMuch and the Sinister Sasquatch")
+print("\nSo begins the tale of Dr DoMuch and the Sinister Sasquatch")
