@@ -33,11 +33,11 @@ while True:
     userInput = input("Pick your response: ")
     if userInput not in playerInsultsLength:
         print ("Please enter a valid insult number.")
-    elif userInput == 1:
+    elif userInput == "1":
         print("The pirate is aghast, how could you come up with the perfect retort?")
-    elif userInput == 2:
+    elif userInput == "2":
         print("Your childish retort fails to have an effect on the pirate, he laughs in response and walks away")
-    elif userInput == 3:
+    elif userInput == "3":
         print("The pirate gives you a glare, but is unable to retort.")
-    elif userInput == 4:
+    elif userInput == "4":
         print("Everyone around looks at you and start laughing, your future as a pirate is over")
