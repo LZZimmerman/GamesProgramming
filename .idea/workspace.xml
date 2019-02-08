@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="354f5777-ad12-441e-b6d2-d71a3ded3f2c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 6 (Object Oriented)/Exercise 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 6 (Object Oriented)/Exercise 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 7/classexercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 7/classexercise.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,12 +58,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="11" />
-          <entry key="py" value="9689" />
+          <entry key="py" value="9725" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="9700" />
+          <entry key="Python" value="9736" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -115,13 +115,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Class 7/classexercise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            <state relative-caret-position="459">
+              <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <marker date="1549644001774" expanded="true" signature="440:844" ph="..." />
-                <marker date="1549644001774" expanded="true" signature="690:788" ph="..." />
-                <marker date="1549644001774" expanded="true" signature="841:842" ph="..." />
+                <marker date="1549644516409" expanded="true" signature="434:838" ph="..." />
+                <marker date="1549644516409" expanded="true" signature="684:782" ph="..." />
+                <marker date="1549644516409" expanded="true" signature="835:836" ph="..." />
               </folding>
             </state>
           </provider>
@@ -168,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -562,13 +562,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 7/classexercise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        <state relative-caret-position="459">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <marker date="1549644001774" expanded="true" signature="440:844" ph="..." />
-            <marker date="1549644001774" expanded="true" signature="690:788" ph="..." />
-            <marker date="1549644001774" expanded="true" signature="841:842" ph="..." />
+            <marker date="1549644516409" expanded="true" signature="434:838" ph="..." />
+            <marker date="1549644516409" expanded="true" signature="684:782" ph="..." />
+            <marker date="1549644516409" expanded="true" signature="835:836" ph="..." />
           </folding>
         </state>
       </provider>

@@ -7,7 +7,7 @@ pygame.display.set_caption("My first PyGame program")
 screen = pygame.display.set_mode((640,480))
 pressed_key = pygame.key.get_pressed()
 
-cloud_image = pygame.image.load("cloud.png").convert_alpha()
+cloud_image = pygame.image.load("cloud.jpg").convert()
 
 # xpos = 5
 # ypos = 5
@@ -37,7 +37,7 @@ class Raindrop:
 while 1:
     clock.tick(60)
     screen.fill((88,78,76))
-
+    screen.blit(cloud_image, (100,0))
 
 
 
