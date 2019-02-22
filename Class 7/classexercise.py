@@ -20,8 +20,8 @@ class Raindrop:
 
 
     def __init__(self):
-        self.x = random.randint(0,640)
-        self.y = random.randint(0,10)
+        self.x = random.randint(100,339)
+        self.y = random.randint(211,212)
         self.speed = random.randint(3,8)
         self.size = random.randint(0,10)
         # self.rect = self.image.get_rect()

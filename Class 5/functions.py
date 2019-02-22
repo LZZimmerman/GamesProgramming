@@ -40,12 +40,16 @@
 
 a=4
 
-
+def testfunct():
+    global a
+    a = 10
 def valueInsideFunction():
 
-    global a
-    a = 17
+#    global a
+#    a = 17
+
     print("Value of an inside function:", a)
+    testfunct()
 
 
 valueInsideFunction()
