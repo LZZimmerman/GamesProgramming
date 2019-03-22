@@ -32,6 +32,7 @@ while 1:
     screen.blit(font.render("Lives:" + str(lives), True, (0, 0, 0)), (5, 5))
     pressed_key = pygame.key.get_pressed()
 
+    pygame.draw.rect(screen, (200, 0, 50), (10, 30, 30, 100), 2)
     pygame.draw.rect(screen, (200, 0, 50), (10, 30, 30, y1))
 
     if pressed_key[K_ESCAPE]:

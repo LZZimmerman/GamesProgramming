@@ -158,8 +158,6 @@ while 1:
 				break
 			j+=1
 
-
-
 		e += 1
 	 
 	
